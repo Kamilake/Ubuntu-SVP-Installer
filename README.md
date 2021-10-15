@@ -1,4 +1,11 @@
 # Ubuntu-SVP-Installer
+## Usage
+```bash
+sudo -i
+exit
+./start.sh
+```
+
 ## Disclaimer
 This dirty hacky script was written by my Guineapig.
 

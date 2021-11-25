@@ -1,6 +1,7 @@
 #!/bin/bash
 # Disclaimer: This dirty hacky script was written by my Guineapig. Do not apply this script to users who do not want to mess up the system.
 
+
 sudo add-apt-repository ppa:rvm/smplayer 
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt-get update 

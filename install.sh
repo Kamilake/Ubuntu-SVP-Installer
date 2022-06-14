@@ -59,7 +59,7 @@ echo --enable-nonfree >> ffmpeg_options
 echo --enable-vapoursynth >> mpv_options
 echo --enable-libmpv-shared >> mpv_options
 
-wget http://archive.ubuntu.com/ubuntu/pool/universe/m/mujs/mujs_1.0.7-2_amd64.deb
+wget http://archive.ubuntu.com/ubuntu/pool/universe/m/mujs/mujs_1.1.3-4_amd64.deb
 sudo apt install ./mujs_1.0.7-2_amd64.deb
 rm ./mujs_1.0.7-2_amd64.deb
 
